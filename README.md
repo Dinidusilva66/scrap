@@ -55,7 +55,7 @@
   "title": "Movie Title",
   "uploader": "Uploader Name",
   "imageUrl": "https://image-link.com",
-  "subtitleCompatibility": "English, Sinhala",
+  "subtitleCompatibility": "The sub comatibility of WebRip , WebDl , HD copy",
   "downloadLink": "https://download-link.com"
 }
 </code>
